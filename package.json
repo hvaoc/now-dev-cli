@@ -14,7 +14,7 @@
     "express": "^4.16.4",
     "minimist": "^1.2.0",
     "next": "^7.0.2",
-    "next-routes-middleware": "^3.3.0",
+    "next-routes-middleware": "git+https://github.com/hvaoc/next-routes-middleware.git",
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
   }
